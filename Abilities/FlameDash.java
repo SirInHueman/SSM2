@@ -2,7 +2,6 @@ package SSM.Abilities;
 
 import SSM.Ability;
 import org.bukkit.Bukkit;
-import org.bukkit.Location;
 import org.bukkit.Particle;
 import org.bukkit.Sound;
 import org.bukkit.entity.Entity;
@@ -12,7 +11,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.util.Vector;
-import javax.xml.bind.ValidationException;
+
 import java.util.List;
 
 public class FlameDash extends Ability {

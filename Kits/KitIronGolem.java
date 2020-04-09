@@ -7,9 +7,6 @@ import SSM.Attributes.Regeneration;
 import me.libraryaddict.disguise.disguisetypes.DisguiseType;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.inventory.meta.ItemMeta;
-import org.bukkit.plugin.Plugin;
 
 public class KitIronGolem extends Kit {
 

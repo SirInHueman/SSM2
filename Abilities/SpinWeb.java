@@ -6,7 +6,7 @@ import org.bukkit.Material;
 import org.bukkit.Sound;
 import org.bukkit.block.Block;
 import org.bukkit.entity.*;
-import org.bukkit.event.Listener;;
+;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.Plugin;
 

@@ -1,6 +1,7 @@
 package SSM.Abilities;
 
 import SSM.*;
+import SSM.Ability;
 import org.bukkit.Bukkit;
 import org.bukkit.Sound;
 import org.bukkit.entity.Entity;
@@ -21,7 +22,7 @@ public class SeismicSlam extends Ability {
     public SeismicSlam() {
         super();
         this.name = "Seismic Slam";
-        this.cooldownTime = 2;
+        this.cooldownTime = 8;
         this.rightClickActivate = true;
     }
 
